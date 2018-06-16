@@ -22,14 +22,14 @@ Amicizia is a micro nation forged in Friendship.
 
 # Our National Anthem
 
-“Amicizia, Amicizia”
-Amicizia!  Amicizia!
-Our island life evermore shall fare.
-We are one and here we stand.
-Unity for all the land.
-Together we will stand alive
-Our dear homeland, unified.
-Amicizia!  Amicizia!
+“Amicizia, Amicizia”<br>
+Amicizia!  Amicizia!<br>
+Our island life evermore shall fare.<br>
+We are one and here we stand.<br>
+Unity for all the land.<br>
+Together we will stand alive<br>
+Our dear homeland, unified.<br>
+Amicizia!  Amicizia!<br>
 Our island life evermore shall fare.
 
 
