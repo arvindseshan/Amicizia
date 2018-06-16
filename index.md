@@ -6,9 +6,8 @@ layout: default
 
 Amicizia is a micro nation forged in Friendship.
 
-```
-in Amicizia ci troviamo
-```
+> **in Amicizia ci troviamo**
+
 # Who are its leaders?
 
 <dl>
@@ -30,7 +29,8 @@ Molossia
 
 # Our National Anthem
 
-“Amicizia, Amicizia”<br>
+**“Amicizia, Amicizia”**<br>
+<br>
 Amicizia!  Amicizia!<br>
 Our island life evermore shall fare.<br>
 We are one and here we stand.<br>
