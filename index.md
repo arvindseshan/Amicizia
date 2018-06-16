@@ -11,8 +11,8 @@ Amicizia is a micro nation forged in Friendship.
 # Who are its leaders?
 
 * President: Arvind Seshan
+* Vice President and Secretary of State: Elijah Conklin
 * Secretary of the Treasury: Nate Green
-* Secretary of State: Elijah Conklin
 * Special Advisor to the President: Prajval Sreenivas
 
 # Declarations of War
