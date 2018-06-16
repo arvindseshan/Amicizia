@@ -6,19 +6,27 @@ layout: default
 
 Amicizia is a micro nation forged in Friendship.
 
-> Our motto is: in Amicizia ci troviamo
-
+```
+in Amicizia ci troviamo
+```
 # Who are its leaders?
 
-* President: Arvind Seshan
-* Vice President and Secretary of State: Elijah Conklin
-* Secretary of the Treasury: Nate Green
-* Special Advisor to the President: Prajval Sreenivas
+<dl>
+<dt>President</dt>
+<dd>Arvind Seshan</dd>
+<dt>Vice President & Secretary of State</dt>
+<dd>Elijah Conklin</dd>
+<dt>Secretary of the Treasury</dt>
+<dd>Nate Green</dd>
+<dt>Special Advisor to the President</dt>
+<dd>Prajval Sreenivas</dd>
+</dl>
 
 # Declarations of War
 
-* Molossia
-
+```
+Molossia
+```
 
 # Our National Anthem
 
