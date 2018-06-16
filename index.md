@@ -4,7 +4,7 @@ layout: default
 
 # What is Amicizia?
 
-Amicizia is a micro nation forged in Friendship.
+Amicizia is a micronation forged in Friendship.
 
 > **in Amicizia ci troviamo**
 
