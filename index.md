@@ -4,14 +4,16 @@ layout: default
 
 # What is Amicizia?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Amicizia is a micro nation forged in friendship.
+
+> Our motto is: in Amicizia ci troviamo
 
 # Who are its leaders?
 
-> President: Arvind Seshan
-> Secretary of the Treasury: Nate Green
-> Secretary of State: Elijah Conklin
-> Special Advisor to the President: Prajval Sreenivas
+* President: Arvind Seshan
+* Secretary of the Treasury: Nate Green
+* Secretary of State: Elijah Conklin
+* Special Advisor to the President: Prajval Sreenivas
 
 
 
