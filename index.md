@@ -4,7 +4,7 @@ layout: default
 
 # What is Amicizia?
 
-Amicizia is a micro nation forged in friendship.
+Amicizia is a micro nation forged in Friendship.
 
 > Our motto is: in Amicizia ci troviamo
 
@@ -14,6 +14,23 @@ Amicizia is a micro nation forged in friendship.
 * Secretary of the Treasury: Nate Green
 * Secretary of State: Elijah Conklin
 * Special Advisor to the President: Prajval Sreenivas
+
+# Declarations of War
+
+* Molossia
+
+
+# Our National Anthem
+
+“Amicizia, Amicizia”
+Amicizia!  Amicizia!
+Our island life evermore shall fare.
+We are one and here we stand.
+Unity for all the land.
+Together we will stand alive
+Our dear homeland, unified.
+Amicizia!  Amicizia!
+Our island life evermore shall fare.
 
 
 
